@@ -1,4 +1,4 @@
-# Quizzy
+# Quizzy - 1 MONTH PROJECT AT THE WILD CODE SCHOOL - BY Davy Miklovicova, Morgane Lailler, Benjamin Babilliot et Fouzia asri
 
 ## Description
 
